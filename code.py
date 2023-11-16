@@ -1,0 +1,1 @@
+# This will serve as the first test of the commit function
