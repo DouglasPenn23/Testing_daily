@@ -48,3 +48,7 @@ def stutter(word):
 def how_many_seconds(hours):
 	seconds = hours * 60 * 60
 	return seconds
+
+def next_edge(side1, side2):
+	return (side1 + side2) - 1
+
